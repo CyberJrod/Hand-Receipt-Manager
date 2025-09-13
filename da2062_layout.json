@@ -1,0 +1,19 @@
+{
+  "font_name": "Helvetica",
+  "font_size": 8.0,
+  "font_size_hdr": 10.0,
+  "x_from": 220.0,
+  "y_from": 575.0,
+  "x_to": 456.0,
+  "y_to": 575.0,
+  "x_page_right": 575.0,
+  "y_identifier": 717.0,
+  "item_desc_x": 226.0,
+  "qty_auth_x": 608.0,
+  "item_start_y_first": 501.5,
+  "item_start_y_next": 547.0,
+  "line_spacing": 23.7,
+  "second_line_offset": 11.0,
+  "rows_first": 19,
+  "rows_next": 22
+}
