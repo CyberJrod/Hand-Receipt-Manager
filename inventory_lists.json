@@ -1,0 +1,16 @@
+{
+  "models": [
+    "Cisco Catalyst 3650",
+    "Cisco ISR 4321",
+    "Dell Precision 5500",
+    "Dell Precision 7500"
+  ],
+  "boxes": [],
+  "categories": [
+    "Firewall",
+    "Laptop",
+    "Router",
+    "Switch",
+    "VOIP"
+  ]
+}
