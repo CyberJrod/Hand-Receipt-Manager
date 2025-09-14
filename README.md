@@ -173,9 +173,3 @@ This creates `dist/HandReceiptManager.exe`.
 - **Cannot delete issued items** → Only On Hand items can be deleted.
 
 ---
-
-## 📜 License
-
-Choose a license for your repo (e.g., MIT, Apache 2.0, Proprietary). Until then, assume internal use only.
-
----
