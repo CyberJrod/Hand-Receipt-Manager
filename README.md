@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚠️ Disclaimer (Not Government Endorsed)
 
 This software is an independent tool and is **not affiliated with, endorsed by, or sponsored by** the U.S. Department of Defense (DoD), the U.S. Army, or any other government agency. Use of this software does **not** imply compliance with or substitution for official DoD/Army policies, forms, or procedures. **You are responsible** for verifying accuracy and complying with all applicable regulations and for using official systems where required.
@@ -367,4 +366,3 @@ Security & Privacy
 Inventory data stays local in inventory.db unless you export/share it.
 
 If your environment has sensitive device data, treat the DB and exports as controlled information.
->>>>>>> 47f209e4588f87fe5855b4bf9b080d0082c1822b
