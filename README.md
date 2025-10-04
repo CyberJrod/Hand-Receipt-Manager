@@ -173,3 +173,23 @@ This creates `dist/HandReceiptManager.exe`.
 - **Cannot delete issued items** → Only On Hand items can be deleted.
 
 ---
+---
+
+## 🖼️ Application Gallery
+
+Below are example screenshots of the Hand Receipt Manager interface and generated DA Form 2062.
+
+| Inventory Tab | Issue Tab | Return Tab |
+|----------------|------------|-------------|
+| ![Inventory Tab](images/inventory_tab.png) | ![Issue Tab](images/issue_tab.png) | ![Return Tab](images/return_tab.png) |
+
+| Issued Items | Recycle Bin | Calibration |
+|---------------|--------------|--------------|
+| ![Issued Items Tab](images/issued_items_tab.png) | ![Recycle Bin Tab](images/recycle_bin_tab.png) | ![Calibration Tab](images/calibration_tab.png) |
+
+| Generated 2062 Form |
+|----------------------|
+| ![Generated 2062](images/generated_2062.png) |
+
+---
+
